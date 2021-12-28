@@ -1,16 +1,22 @@
-### Hi there 👋
+![Header]()
 
-<!--
-**kanedaSh0tar0/kanedaSh0tar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hellow There
 
-Here are some ideas to get you started:
+### I am a self-taught novice web developer (I hope web developers will forgive me for assigning this status), and my dream is to become a better developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br></br>
+
+## The languages and tools I learn and use:
+
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=2449D8)
+
+![sass](https://img.shields.io/badge/-sass-000?style=for-the-badge&logo=sass&logoColor=C36291)
+
+![BEM](https://img.shields.io/badge/-BEM-000?style=for-the-badge&logo=BEM&logoColor=C36291)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+
+
+### I'm also currently studying the React library
