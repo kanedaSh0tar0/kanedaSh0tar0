@@ -2,7 +2,7 @@
 
 ## Hellow There
 
-### I am a self-taught novice web developer (I hope web developers will forgive me for assigning this status), and my dream is to become a better developer.
+### I am a self-taught beginner web developer (I hope web developers will forgive me for assigning this status), and my dream is to become a best developer.
 
 <br></br>
 
