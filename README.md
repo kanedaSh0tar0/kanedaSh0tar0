@@ -2,7 +2,7 @@
 
 ## Hellow There
 
-### I am a self-taught beginner web developer (I hope web developers will forgive me for assigning this status), and my dream is to become a best developer.
+### I am a self-taught beginner web developer (I hope web developers will forgive me for assigning this status), and my goal is to become a best developer.
 
 <br></br>
 
@@ -18,5 +18,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 
-### I'm also currently studying the React library
+![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux)
