@@ -20,4 +20,4 @@
 
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 
-![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux)
+![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux&logoColor=754ABB)
