@@ -21,3 +21,11 @@
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 
 ![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux&logoColor=754ABB)
+
+![Node.js](https://img.shields.io/badge/-node.js-000?style=for-the-badge&logo=node.js&logoColor=8DC03E)
+
+![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=757575)
+
+![MySQL](https://img.shields.io/badge/-sql-000?style=for-the-badge&logo=mysql&logoColor=E18C05)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB&logoColor=006648)
