@@ -1,10 +1,6 @@
 ![Header](https://github.com/kanedaSh0tar0/kanedaSh0tar0/blob/main/assets/nyan-cat.gif)
 
-## Hellow There
-
-### I am a self-taught beginner web developer (I hope web developers will forgive me for assigning this status), and my goal is to become a best developer.
-
-<br></br>
+## Every day I just try to get better
 
 ## The languages and tools I learn and use:
 
@@ -18,14 +14,16 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript)
+
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 
 ![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux&logoColor=754ABB)
 
+![Redux-Saga](https://img.shields.io/badge/-Redux_Saga-000?style=for-the-badge&logo=Redux-Saga&logoColor=86d46b)
+
 ![Node.js](https://img.shields.io/badge/-node.js-000?style=for-the-badge&logo=node.js&logoColor=8DC03E)
 
 ![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=757575)
-
-![MySQL](https://img.shields.io/badge/-sql-000?style=for-the-badge&logo=mysql&logoColor=E18C05)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB&logoColor=006648)
